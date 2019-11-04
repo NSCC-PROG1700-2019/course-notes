@@ -14,6 +14,7 @@ import random
 
 MAX_GUESSES = 10
 
+
 def make_decision(guess, r):
     # 'var' is a local variable
     var = 123
